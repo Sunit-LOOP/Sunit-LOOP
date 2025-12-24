@@ -8,7 +8,7 @@ Hi! I’m currently working on projects involving network design, network securi
 
 # 💻 Tech Stack:
 
-## 🔌 Networking (CCNA Focus)
+## 🔌 Networking (CCNA )
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
